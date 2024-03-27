@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{369D5F00-14A8-429E-8B15-71608F7734FB}">
+	<children>
+		<child name="iLotteryRegression" key="{9474F21A-5ABA-4F3B-BE05-368F91866CAF}" path="iLotterySuite\iLotteryRegression.mds" />
+	</children>
+	<testItems key="{6F1FA460-9398-4512-9C27-F58BBB2E4469}">
+		<children>
+			<testItem key="{9474F21A-5ABA-4F3B-BE05-368F91866CAF}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{163023DA-5776-4EDC-85B1-69116E06A86B}" />
+	<analysis key="{FDB11CDC-ED1C-40CE-AE45-AAC55F4F648A}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

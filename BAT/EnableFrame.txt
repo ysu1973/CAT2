@@ -1,0 +1,2 @@
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --disable-web-security
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --disable-site-isolation-trials

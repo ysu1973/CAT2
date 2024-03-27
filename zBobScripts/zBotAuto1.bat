@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\SmartBear\TestComplete 15\x64\Bin\TestComplete.exe" "C:\Users\ysu\workspace\iLottery_CAT2\iLotterySuite.pjs" /run /p:iLotteryRegression /ExportSummary:"C:\Users\ysu\workspace\iLottery_CAT2\Reports\Myreport.xml" /exit 

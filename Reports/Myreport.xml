@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="iLotterySuite" tests="5"  failures="0" errors="0" time="357" >
+  <testsuite name="iLotteryRegression" tests="5" failures="0" errors="0" hostname="ATL-PF2WKXN8" time="355" timestamp="2024-03-26T10:39:12.738-04:00">
+    <testcase name="Holiday_Market_Info_Contents" time="57" classname="iLotteryRegression">
+    </testcase>
+    <testcase name="Jumbo_Bucks_Info_Contents" time="68" classname="iLotteryRegression">
+    </testcase>
+    <testcase name="Lucky7s_Info_Contents" time="55" classname="iLotteryRegression">
+    </testcase>
+    <testcase name="Monopoly_Info_Contents" time="96" classname="iLotteryRegression">
+    </testcase>
+    <testcase name="Quick_Pay_Info_Contents" time="79" classname="iLotteryRegression">
+    </testcase>
+  </testsuite>
+</testsuites>
